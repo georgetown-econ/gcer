@@ -36,7 +36,7 @@ a:visited { color: #205caa; }
 .wrap {
   max-width: 800px;
   padding: 0 30px;
-  margin: 0 auto;
+  margin: 0 auto 0 30%;
   zoom: 1;
 }
 
@@ -408,4 +408,14 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+.announcements h2 {
+font-size: 1.25em;
+}
+
+.left-panel {
+  float: left;
+  max-width: 20%;
+  margin: 5%;
 }
