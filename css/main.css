@@ -326,6 +326,11 @@ a:visited { color: #205caa; }
 
 @media screen and (max-width: 750px) {
 
+  .left-panel {
+    float: none;
+    max-width: 80%;
+    margin: 20px auto;
+  }
   .footer-col-1 { width: 50%; }
 
   .footer-col-2 {

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 show-in-nav: "0"
 ---
 
@@ -12,7 +12,7 @@ show-in-nav: "0"
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
-      	<p> {{ post.excerpt }} ... </p>
+      	<p> {{ post.excerpt | strip_html | prepend: "<p>" }} ... </p>
       </li>
     {% endfor %}
   </ul>

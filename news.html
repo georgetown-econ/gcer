@@ -17,7 +17,7 @@ show-in-nav: "1"
 		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         	<div class="post-link">{{ post.title }}</div>
 
-      		<p> {{ post.content }} </p>
+      		<p> {{ post.content | remove: "@@@" }} </p>
 	</div>
       </li>
     {% endfor %}
