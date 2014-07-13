@@ -12,10 +12,13 @@ show-in-nav: "1"
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <div class="post-link">{{ post.title }}</div>
+	<div class="post-details">
+        	<a name="{{ post.id }}"></a>  
+		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        	<div class="post-link">{{ post.title }}</div>
 
-      	<p> {{ post.content }} </p>
+      		<p> {{ post.content }} </p>
+	</div>
       </li>
     {% endfor %}
   </ul>

@@ -11,7 +11,7 @@ show-in-nav: "0"
     {% for post in site.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: news# }}">{{ post.title }}</a>
+        <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
       	<p> {{ post.excerpt }} ... </p>
       </li>
     {% endfor %}
