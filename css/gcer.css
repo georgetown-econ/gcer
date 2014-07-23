@@ -411,7 +411,12 @@ a:visited { color: #205caa; }
 }
 
 .announcements h2 {
-font-size: 1.25em;
+  font-size: 1.25em;
+}
+
+.announcements li {
+  list-style-type: none;
+  margin-top: 1em;
 }
 
 .left-panel {
