@@ -1,7 +1,5 @@
 <header class="site-header">
-
   <div class="wrap">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -16,14 +14,37 @@
             c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
+
       <div class="trigger">
-	{% assign pages-in-nav = site.pages | where:"show-in-nav", "1" %}   
+	      {% assign pages-in-nav = site.pages | where:"show-in-nav", "1" %}
         {% for page in pages-in-nav %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endfor %}
       </div>
     </nav>
-
   </div>
-
 </header>
+
+<div class="fade">
+  <div><img src="/assets/images/one.jpg" /></div>
+  <div><img src="/assets/images/two.jpg" /></div>
+  <div><img src="/assets/images/three.jpg" /></div>
+  <div><img src="/assets/images/four.jpg" /></div>
+</div>
+
+<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/slick/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.fade').slick({
+      dots: true,
+      infinite: true,
+      fade: true,
+      autoplay: true,
+      autoplaySpeed: 6000,
+      cssEase: 'linear'
+    });
+  });
+</script>
