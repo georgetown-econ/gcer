@@ -5,6 +5,14 @@ show-in-nav: "0"
 
 <div class="home">
 
+
+  <div class="fade">
+    <div><img src="assets/images/one.jpg" /></div>
+    <div><img src="assets/images/two.jpg" /></div>
+    <div><img src="assets/images/three.jpg" /></div>
+    <div><img src="assets/images/four.jpg" /></div>
+  </div>
+
   <h1 class="main-page-title">GCER in the News</h1>
 
   <ul class="posts">
@@ -19,4 +27,21 @@ show-in-nav: "0"
 
   <a href="/news"> More news ...</a> 		
 
+
+  <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="slick/slick.min.js"></script>
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.fade').slick({
+        dots: true,
+        infinite: true,
+        fade: true,
+        autoplay: true,
+        autoplaySpeed: 6000,
+        cssEase: 'linear'
+      });
+    });
+  </script>
 </div>

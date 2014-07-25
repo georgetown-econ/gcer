@@ -172,6 +172,8 @@ a:visited { color: #205caa; }
 /* Post styles */
 /* ----------------------------------------------------------*/
 
+.fade { width: 1180px; }
+
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
@@ -420,7 +422,6 @@ a:visited { color: #205caa; }
 }
 
 .left-panel {
-  float: left;
   max-width: 20%;
   margin: 5%;
 }
