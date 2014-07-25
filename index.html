@@ -9,7 +9,7 @@ show-in-nav: "0"
   <h1 class="main-page-title">GCER in the News</h1>
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 4 %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
