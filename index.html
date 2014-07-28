@@ -5,18 +5,27 @@ show-in-nav: "0"
 
 <div class="home">
 
+  <div class="announcements">
+    <h1 class="side-title">Announcements</h1>
+    Hello World
+  </div>
 
-  <h1 class="main-page-title">GCER in the News</h1>
+  <div class="news">
 
-  <ul class="posts">
-    {% for post in site.posts limit: 4 %}
+    <h1 class="main-page-title">GCER in the News</h1>
+
+    <ul class="posts">
+      {% for post in site.posts limit: 4 %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
-      	<p> {{ post.excerpt | strip_html | prepend: "<p>" }} ... </p>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
+      <p> {{ post.excerpt | strip_html | prepend: "<p>" }} ... </p>
       </li>
     {% endfor %}
-  </ul>
+    </ul>
 
-  <a href="/news"> More news ...</a> 		
+    <a href="/news"> More news ...</a>
+
+  </div>
+
 </div>
