@@ -429,6 +429,7 @@ a:visited { color: #205caa; }
 .announcements {
   float: left;
   width: 30%;
+  padding-top: 50px;
 }
 
 .announcements h2 {
