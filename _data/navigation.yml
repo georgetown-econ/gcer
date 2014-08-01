@@ -1,11 +1,34 @@
 - name: Home
-  url: /home
+  url: /
   sublinks:
-    - {name: News & Announcements, url: /index}
+    - {name: News, url: /}
     - {name: Calendar, url: /calendar}
+    - {name: Make a Donation, url: /donation}
 
 - name: Research
   url: /research
   sublinks:
     - {name: Featured Profile, url: /profile}
     - {name: Initiatives, url: /initiatives}
+    - {name: Publications, url: /publications}
+
+- name: Archive
+  url: /news
+  sublinks:
+    - {name: News Archive, url: /news}
+    - {name: Newsletter, url: /newsletter}
+
+- name: Fellows
+  url: /staff
+  sublinks:
+    - {name: Directors, url: /staff#directors}
+    - {name: Departmental fellows, url: /staff#faculty}
+    - {name: Affiliated fellows, url: /staff#associates}
+    - {name: Support staff, url: /staff#supportstaff}
+
+- name: About
+  url: /about
+  sublinks:
+    - {name: About, url: /about}
+    - {name: Contact us, url: /about#contact}
+    - {name: Make a Donation, url: /donation}
