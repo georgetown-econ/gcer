@@ -5,7 +5,7 @@ permalink: /about/
 show-in-nav: "1"
 ---
 
-
+<a name="content"></a>
 <p><img src="http://localhost:4000//assets/images/FVella.jpg" style="width: 144px; height: 177px; float: left; margin: 10px;" alt="Frank Vella"> Welcome to the Georgetown Center for Economic Research (GCER). Its primary goal is to foster an environment of open and rigorous scientific inquiry into current economic policy issues and problems, and to communicate its findings to academics and policy makers. Housed within the Department of Economics at Georgetown University, the Center brings together economists from across the University and elevates Georgetown’s leadership role in informing policy. We think you’ll find our programs and initiatives interesting and innovative.</p>
 
 Among its many functions, GCER sponsors workshops, conferences, and lecture series such as the annual Razin Policy Lecture and the Georgetown Alumni Research Conference. GCER also disseminates research findings through its Working Paper Series, and promotes interaction among members of the greater academic community through its Visiting Scholars Program and other joint programs and initiatives.
