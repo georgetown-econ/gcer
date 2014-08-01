@@ -418,8 +418,6 @@ a:visited { color: #205caa; }
   .wrap { padding: 0 12px; }
 
   .site-nav {
-    position: fixed;
-    z-index: 10;
     top: 14px; right: 8px;
     background-color: white;
     -webkit-border-radius: 5px;
@@ -476,14 +474,17 @@ a:visited { color: #205caa; }
   }
 
   .left-panel {
-    max-width: 100%;
+    max-width: 90%;
     margin: 5%;
-    width: 100%;
+    width: 90%;
   }
 
   .announcements {
-    width: 100%;
+    width: 90%;
     margin: 5%;
   }
 
+  .fade {
+    display: none;
+  }
 }
