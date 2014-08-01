@@ -1,25 +1,25 @@
 - name: Home
-  url: /#content
+  url: /
   sublinks:
-    - {name: News, url: /#content}
-    - {name: Calendar, url: /calendar#content}
+    - {name: News, url: /}
+    - {name: Calendar, url: /calendar}
     - {name: Make a Donation, url: /about#donation}
 
 - name: Research
-  url: /research#content
+  url: /research
   sublinks:
     - {name: Featured Profile, url: /research#profile}
     - {name: Initiatives, url: /research#initiatives}
     - {name: Publications, url: /research#publications}
 
 - name: Archive
-  url: /archive#content
+  url: /archive
   sublinks:
-    - {name: News Archive, url: /archive#content}
-    - {name: Newsletter, url: /newsletter#content}
+    - {name: News Archive, url: /archive}
+    - {name: Newsletter, url: /newsletter}
 
 - name: Fellows
-  url: /fellows#content
+  url: /fellows
   sublinks:
     - {name: Directors, url: /fellows#directors}
     - {name: Departmental fellows, url: /fellows#faculty}
@@ -27,8 +27,8 @@
     - {name: Support staff, url: /fellows#supportstaff}
 
 - name: About
-  url: /about#content
+  url: /about
   sublinks:
-    - {name: About, url: /about#content}
+    - {name: About, url: /about}
     - {name: Contact us, url: /about#contact}
     - {name: Make a Donation, url: /about#donation}
