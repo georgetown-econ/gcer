@@ -1,0 +1,11 @@
+- name: Home
+  url: /home
+  sublinks:
+    - {name: News & Announcements, url: /index}
+    - {name: Calendar, url: /calendar}
+
+- name: Research
+  url: /research
+  sublinks:
+    - {name: Featured Profile, url: /profile}
+    - {name: Initiatives, url: /initiatives}

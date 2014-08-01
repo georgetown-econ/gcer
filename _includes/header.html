@@ -15,14 +15,22 @@
         </svg>
       </a>
 
-      <div class="trigger">
-	      {% assign pages-in-nav = site.pages | where:"show-in-nav", "1" %}
-        {% for page in pages-in-nav %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
-  </div>
+  <ul id="navigation" class="sm sm-mint" style="display: block;">
+    {% for navitem in site.data.navigation %}
+      <li>
+        <a href="{{ navitem.url }}">{{ navitem.name }}</a>
+        <ul>
+          {% for subnavitem in navitem.sublinks %}
+          <li>
+            <a href="{{ subnavitem.url }}">{{ subnavitem.name }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+ </nav>
+</div>
 </header>
 
 <div class="fade">
@@ -34,6 +42,7 @@
 
 <script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.smartmenus.js"></script>
 <script type="text/javascript" src="/slick/slick.min.js"></script>
 
 <script type="text/javascript">
@@ -46,5 +55,7 @@
       autoplaySpeed: 6000,
       cssEase: 'linear'
     });
+
+    $('#navigation').smartmenus();
   });
 </script>
