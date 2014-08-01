@@ -19,7 +19,7 @@ show-in-nav: "0"
       {% for post in site.posts limit: 4 %}
       <li>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="/news/#{{ post.id }}">{{ post.title }}</a>
+      <a class="post-link" href="/archive/#{{ post.id }}">{{ post.title }}</a>
       <p> {{ post.excerpt | strip_html | prepend: "<p>" }} ... </p>
       </li>
     {% endfor %}

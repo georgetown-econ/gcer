@@ -8,27 +8,27 @@
 - name: Research
   url: /research
   sublinks:
-    - {name: Featured Profile, url: /profile}
-    - {name: Initiatives, url: /initiatives}
-    - {name: Publications, url: /publications}
+    - {name: Featured Profile, url: /research#profile}
+    - {name: Initiatives, url: /research#initiatives}
+    - {name: Publications, url: /research#publications}
 
 - name: Archive
-  url: /news
+  url: /archive
   sublinks:
-    - {name: News Archive, url: /news}
+    - {name: News Archive, url: /archive}
     - {name: Newsletter, url: /newsletter}
 
 - name: Fellows
-  url: /staff
+  url: /fellows
   sublinks:
-    - {name: Directors, url: /staff#directors}
-    - {name: Departmental fellows, url: /staff#faculty}
-    - {name: Affiliated fellows, url: /staff#associates}
-    - {name: Support staff, url: /staff#supportstaff}
+    - {name: Directors, url: /fellows#directors}
+    - {name: Departmental fellows, url: /fellows#faculty}
+    - {name: Affiliated fellows, url: /fellows#associates}
+    - {name: Support staff, url: /fellows#supportstaff}
 
 - name: About
   url: /about
   sublinks:
     - {name: About, url: /about}
     - {name: Contact us, url: /about#contact}
-    - {name: Make a Donation, url: /donation}
+    - {name: Make a Donation, url: /about#donation}
