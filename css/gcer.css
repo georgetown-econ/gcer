@@ -42,7 +42,7 @@ a:visited { color: #205caa; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  max-width: 1200px;
   padding: 0 30px;
   margin: 0 auto 0 auto;
   zoom: 1;
@@ -164,7 +164,10 @@ a:visited { color: #205caa; }
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+.posts li {
+  margin-bottom: 30px;
+  border-top: 1px solid rgba(128, 128, 128, 0.4);
+}
 
 .posts .post-link {
   font-size: 24px;
@@ -244,9 +247,6 @@ a:visited { color: #205caa; }
   margin: 30px 0;
 }
 
-.post-content ul,
-.post-content ol { padding-left: 20px; }
-
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
@@ -259,9 +259,6 @@ a:visited { color: #205caa; }
 }
 
 .post code { padding: 1px 5px; }
-
-.post ul,
-.post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
 
@@ -453,4 +450,9 @@ a:visited { color: #205caa; }
 
 #navigation {
   margin-bottom: 20px;
+}
+
+.posts .post-details {
+  overflow: auto;
+  width: 100%;
 }
