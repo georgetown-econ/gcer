@@ -1,8 +1,68 @@
 ---
-layout: page
+layout: default
 title: Fellows
 permalink: /fellows/
 show-in-nav: "1"
 ---
 
-Fellows page. Work in progress.
+<div class="content">
+  <div class="people">
+    <span class="group" id="directors">Directors</span>
+    {% for person in site.data.directors %}
+      <div class="person director">
+        <div class="picture">
+          <img src="/assets/images/staff/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.alt }}"></img>
+        </div>
+        <div class="info">
+          <div class="name">{{ person.name }}</div>
+          <div class="detail">{{ person.content | newline_to_br }}<div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="people">
+    <span class="group" id="faculty">Departmental Fellows</span>
+    {% for person in site.data.departmental_fellows %}
+      <div class="person departmental_fellow">
+        <div class="picture">
+          <img src="/assets/images/staff/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.alt }}"></img>
+        </div>
+        <div class="info">
+          <div class="name">{{ person.name }}</div>
+          <div class="detail">{{ person.content | newline_to_br }}<div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="people">
+    <span class="group" id="associates">Affiliated and Visiting Fellows</span>
+    {% for person in site.data.affiliated_and_visiting_fellows %}
+      <div class="person affiliated_and_visiting_fellow">
+        <div class="picture">
+          <img src="/assets/images/staff/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.alt }}"></img>
+        </div>
+        <div class="info">
+          <div class="name">{{ person.name }}</div>
+          <div class="detail">{{ person.content | newline_to_br }}<div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="people">
+    <span class="group" id="supportstaff">Support Staff</span>
+    {% for person in site.data.support_staff %}
+      <div class="person support_staff">
+        <div class="picture">
+          <img src="/assets/images/staff/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.alt }}"></img>
+        </div>
+        <div class="info">
+          <div class="name">{{ person.name }}</div>
+          <div class="detail">{{ person.content | newline_to_br }}<div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

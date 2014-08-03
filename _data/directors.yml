@@ -1,0 +1,15 @@
+- name: "Francis G. Vella"
+  image: "FVella.jpg"
+  width: 72
+  height: 92
+  alt: "frank vella"
+  link: "http://www9.georgetown.edu/faculty/fgv/"
+  content: "Department Chair\nVillani Professor of Economics"
+
+- name: "Roger Lagunoff"
+  image: "Lagunoff.jpg"
+  width: 76
+  height: 76
+  alt: "roger lagunoff"
+  link: "http://www9.georgetown.edu/faculty/lagunofr/lagunoff.htm"
+  content: "GCER Director\nProfessor of Economics"
