@@ -120,7 +120,7 @@
 
 - name: "William G. Jack"
   image: "jack.jpg"
-  width: 72
+  width: 80
   height: 92
   alt: "william jack"
   link: "http://explore.georgetown.edu/people/wgj/"
@@ -152,8 +152,8 @@
 
 - name: "Anna M Mayda"
   image: "Mayda_Anna Maria_amm23..jpg"
-  width: 92
-  height: 80
+  width: 100
+  height: 67
   alt: "Anna M   Mayda"
   link: "http://explore.georgetown.edu/people/amm223/"
   content: "Associate Professor of Economics"
