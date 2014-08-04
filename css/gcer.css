@@ -341,9 +341,8 @@ a:visited { color: #205caa; }
   font-size: 1.25em;
 }
 
-.announcements li {
-  list-style-type: none;
-  margin-top: 1em;
+.announcements .announcement {
+  margin-bottom: 5em;
 }
 
 .content {
