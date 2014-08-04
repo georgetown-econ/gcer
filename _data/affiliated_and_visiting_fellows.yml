@@ -1,95 +1,95 @@
 - name: "Nada O Eissa"
   image: "nadaeissa.jpg"
-  width: 76
-  height: 98
+  width: 152
+  height: 196
   alt: "Nada Eissa"
   link: "http://explore.georgetown.edu/people/noe/?PageTemplateID=364"
   content: "Associate Professor of Public Policy and Economics, and Research Associate at the National Bureau of Economic Research (NBER)"
 
 - name: "Eric D. Gould"
   image: "gould.jpeg"
-  width: 85
-  height: 85
+  width: 170
+  height: 170
   alt: "Eric D. Gould"
   link: "https://sites.google.com/site/edgould/"
   content: "John Alfred Weinberg Chair in Economics, Hebrew University of Jerusalem."
 
 - name: "James P Habyarimana "
   image: "JamesPHabyarimana.jpg"
-  width: 80
-  height: 94
+  width: 160
+  height: 188
   alt: "James P Habyarimana"
   link: "http://explore.georgetown.edu/people/jph35/?action=viewgeneral&PageTemplateID=127"
   content: "Associate Professor of Georgetown Public Policy Institute"
 
 - name: "Matthew Harding"
   image: "Matthew_Harding.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Matthew Harding"
   link: "http://www.stanford.edu/~mch/"
   content: "Assistant Professor, Stanford University. visiting 2012-14"
 
 - name: "J. Bradford Jenson"
   image: "BradfordJensen.jpg"
-  width: 64
-  height: 98
+  width: 128
+  height: 196
   alt: "J. Bradford Jenson"
   link: "http://explore.georgetown.edu/people/jbj24/?action=viewgeneral&PageTemplateID=109"
   content: "Professor of International Business and Economics at the McDonough School of Business"
 
 - name: "Brian Madigan"
   image: "BMadigan1.jpg"
-  width: 72
-  height: 99
+  width: 144
+  height: 198
   alt: "Brian Madigan"
   link: "http://explore.georgetown.edu/people/bm433/"
   content: "MA Program Director, Department of Economics"
 
 - name: "John Mayo"
   image: "JohnMayo.jpg"
-  width: 80
-  height: 88
+  width: 160
+  height: 176
   alt: "John Mayo"
   link: "http://explore.georgetown.edu/people/mayoj/?PageTemplateID=319"
   content: "Professor of Economics, Business and Public Policy"
 
 - name: "Lindsay Oldenski"
   image: "LindsayOldenski.jpg"
-  width: 73
-  height: 86
+  width: 146
+  height: 172
   alt: "Lindsay Oldenski"
   link: "http://www9.georgetown.edu/faculty/lo36/"
   content: "Assistant Professor, School of Foreign Service."
 
 - name: "Franco Peracchi"
   image: "peracchi.JPG"
-  width: 90
-  height: 80
+  width: 180
+  height: 160
   alt: "Franco Peracchi"
   link: "http://www.eief.it/faculty-visitors/faculty-a-z/franco-peracchi/"
   content: "Professor, Tor Vergata University."
 
 - name: "Carlo Prato"
   image: "cpr.jpg"
-  width: 75
-  height: 90
+  width: 150
+  height: 180
   alt: "Carlo Prato"
   link: "http://carloprato.com/"
   content: "Assistant Professor, School of Foreign Service."
 
 - name: "Joshua C Teitelbaum"
   image: "JoshuaCTeitelbaum.jpg"
-  width: 75
-  height: 90
+  width: 150
+  height: 180
   alt: "Joshua C Teitelbaum"
   link: "http://www.law.georgetown.edu/faculty/jct48/"
   content: "Associate Professor of Law, Georgetown University Law Center"
 
 - name: "Daniel Westbrook"
   image: "westbrook.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Daniel Westbrook"
   link: "http://explore.georgetown.edu/people/westbrom/"
   content: "Assistant Professor of Economics"

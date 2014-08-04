@@ -1,4 +1,4 @@
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 960px) {
 
   .footer-col-1 { width: 50%; }
 
@@ -16,4 +16,18 @@
     float: none;
     clear: both;
   }
+
+  /* START Fellows page. */
+  .people .person {
+    float: none;
+    height: auto;
+    margin: 20px auto 40px auto;
+    border-bottom: 1px solid #000;
+  }
+
+  .people .picture {
+    float: none;
+    margin-right: 0px;
+  }
+  /* END Fellows page. */
 }

@@ -1,31 +1,31 @@
 - name: "Marcia Suss"
   image: "suss.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Marcia Suss"
   link: "http://econ.georgetown.edu/"
   content: "Department Administrator"
 
 - name: "Barbara Kalabinski"
   image: "kalabinski.jpg"
-  width: 80
-  height: 82
+  width: 160
+  height: 164
   alt: "Barbara Kalabinski"
   link: "http://econ.georgetown.edu/"
   content: "Graduate & GCER Coordinator"
 
 - name: "Kerstin Gobel"
   image: ""
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Kerstin Gobel"
   link: "http://econ.georgetown.edu/"
   content: "Undergraduate & GCER Coordinator"
 
 - name: "Nivedita Kashyap"
   image: "Nivedita.jpg"
-  width: 85
-  height: 82
+  width: 170
+  height: 164
   alt: "Nivedita Kashyap"
   link: "https://twitter.com/vakhya"
   content: "GCER Website Manager"

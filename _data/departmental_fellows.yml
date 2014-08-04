@@ -1,199 +1,199 @@
 - name: "James Albrecht"
   image: "albrecht.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Jim Albrecht"
   link: "http://explore.georgetown.edu/people/albrecht/"
   content: "Professor of Economics"
 
 - name: "Luca Anderlini "
   image: "anderlini.jpg"
-  width: 72
-  height: 82
+  width: 144
+  height: 164
   alt: "luca anderlini"
   link: "http://explore.georgetown.edu/people/la2/"
   content: "Professor of Economics"
 
 - name: "Axel Anderson"
   image: "anderson.jpg"
-  width: 78
-  height: 76
+  width: 156
+  height: 152
   alt: "Axel Anderson"
   link: "http://explore.georgetown.edu/people/aza/"
   content: "Associate Professor of Economics"
 
 - name: "Jinhui Bai"
   image: "bai.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "jinhui bai"
   link: "http://explore.georgetown.edu/people/jb543/"
   content: "Assistant Professor of Economics"
 
 - name: "Laurent Bouton"
   image: "LaurentBouton.jpg"
-  width: 87
-  height: 90
+  width: 174
+  height: 180
   alt: "Laurent Bouton"
   link: "http://people.bu.edu/lbouton/"
   content: "Assistant Professor of Economics"
 
 - name: "Matthew Canzoneri"
   image: "canzoneri.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "matt canzoneri"
   link: "http://explore.georgetown.edu/people/canzonem/"
   content: "Professor of Economics"
 
 - name: "Dan Cao"
   image: "Cao.jpg"
-  width: 78
-  height: 82
+  width: 156
+  height: 164
   alt: "dan cao"
   link: "http://explore.georgetown.edu/people/dc448/"
   content: "Assistant Professor of Economics"
 
 - name: "Robert Cumby"
   image: "cumby.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "bob cumby"
   link: "http://explore.georgetown.edu/people/cumbyr/"
   content: "Professor of Economics"
 
 - name: "Behzad Diba"
   image: "diba.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "behzad diba"
   link: "http://explore.georgetown.edu/people/dibab/"
   content: "Professor of Economics"
 
 - name: "Martin Evans"
   image: "evans.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "martin evans"
   link: "http://explore.georgetown.edu/people/evansm1/"
   content: "Professor of Economics"
 
 - name: "Luca Flabbi"
   image: "Luca Flabbi.jpg"
-  width: 92
-  height: 80
+  width: 184
+  height: 160
   alt: "luca flabbi"
   link: "http://explore.georgetown.edu/people/lf74/"
   content: "Assistant Professor of Economics"
 
 - name: "Ian Gale"
   image: "Gale_Ian_galei.jpg"
-  width: 92
-  height: 82
+  width: 184
+  height: 164
   alt: "ian gale"
   link: "http://explore.georgetown.edu/people/galei/"
   content: "Professor of Economics"
 
 - name: "Garance Genicot"
   image: "genicot.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "garance genicot"
   link: "http://explore.georgetown.edu/people/gg58/"
   content: "Associate Professor of Economics"
 
 - name: "Pedro Gete"
   image: "Pedro.jpg"
-  width: 92
-  height: 80
+  width: 184
+  height: 160
   alt: "pedro gete"
   link: "http://explore.georgetown.edu/people/pg252/"
   content: "Assistant Professor of Economics"
 
 - name: "Mark Huggett"
   image: "Huggett_Mark_mh5.jpg"
-  width: 92
-  height: 80
+  width: 184
+  height: 160
   alt: "mark huggett"
   link: "http://explore.georgetown.edu/people/mh5/"
   content: "Professor of Economics"
 
 - name: "William G. Jack"
   image: "jack.jpg"
-  width: 80
-  height: 92
+  width: 160
+  height: 184
   alt: "william jack"
   link: "http://explore.georgetown.edu/people/wgj/"
   content: "Associate  Professor of Economics"
 
 - name: "Guido Kuersteiner"
   image: "Kuersteiner.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Guido   Kuersteiner"
   link: "http://explore.georgetown.edu/people/gk232/"
   content: "Professor of Economics"
 
 - name: "Arik M Levinson"
   image: "Levinson_Arik_aml6.jpg"
-  width: 92
-  height: 80
+  width: 184
+  height: 160
   alt: "Arik Levinson"
   link: "http://explore.georgetown.edu/people/aml6/"
   content: "Professor of Economics"
 
 - name: "Rodney Ludema"
   image: "ludema.jpg"
-  width: 76
-  height: 76
+  width: 152
+  height: 152
   alt: "Rodney Ludema"
   link: "http://explore.georgetown.edu/people/ludemar/"
   content: "Associate Professor of Economics"
 
 - name: "Anna M Mayda"
   image: "Mayda_Anna Maria_amm23..jpg"
-  width: 100
-  height: 67
+  width: 200
+  height: 134
   alt: "Anna M   Mayda"
   link: "http://explore.georgetown.edu/people/amm223/"
   content: "Associate Professor of Economics"
 
 - name: "Martin Ravallion"
   image: "martin-ravallion.jpg"
-  width: 96
-  height: 64
+  width: 192
+  height: 128
   alt: "Martin Ravallion"
   link: "http://explore.georgetown.edu/people/mr1185/"
   content: "Edmond D. Villani Professor of Economics"
 
 - name: "Carol Ann Rogers"
   image: "rogers.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Carol Ann Rogers"
   link: "http://explore.georgetown.edu/people/rogersc/"
   content: "Associate Professor of Economics"
 
 - name: "John Rust"
   image: "John_Rust.gif"
-  width: 92
-  height: 92
+  width: 184
+  height: 184
   alt: "John Rust"
   link: "http://gemini.econ.umd.edu/jrust/"
   content: "Professor of Economics"
 
 - name: "Marius Schwartz"
   image: "schwartz.jpg"
-  width: 72
-  height: 92
+  width: 144
+  height: 184
   alt: "Marius Schwartz"
   link: "http://explore.georgetown.edu/people/schwarm2/"
   content: "Professor of Economics"
 
 - name: "Susan Vroman"
   image: "vroman1.jpg"
-  width: 92
-  height: 82
+  width: 184
+  height: 164
   alt: "Susan   Vroman"
   link: "http://explore.georgetown.edu/people/vromans/"
   content: "Professor of Economics"

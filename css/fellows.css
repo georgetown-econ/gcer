@@ -1,3 +1,26 @@
+.people {
+  clear: both;
+}
+
 .people .group {
   font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.people .person {
+  float: left;
+  width: 48%;
+  margin-right: 2%;
+  height: 250px;
+}
+
+.people .picture {
+  float: left;
+  margin-right: 20px;
+}
+
+.people .info .name {
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-bottom: 15px;
 }
