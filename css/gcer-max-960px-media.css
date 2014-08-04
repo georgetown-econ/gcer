@@ -18,6 +18,10 @@
   }
 
   /* START Fellows page. */
+  .people .group {
+    text-align: center;
+  }
+
   .people .person {
     float: none;
     height: auto;
