@@ -411,3 +411,13 @@ a:visited { color: #205caa; }
   float: right;
   width: 20%;
 }
+
+.pagination .pages {
+  display: table;
+  table-layout: fixed;
+}
+
+.pagination .pages .nav {
+  font-size: 1.25em;
+  display: table-cell;
+}

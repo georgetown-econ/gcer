@@ -16,26 +16,26 @@ title: Archive
     {% if paginator.total_pages > 1 %}
     <div class="pagination">
       <div class="all">
-        <a href="{{ site.baseurl }}/archive/all">All news items</a>
+        <span class="nav"><a href="{{ site.baseurl }}/archive/all">Full archive</a></span>
       </div>
 
       <div class="pages">
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        <span class="nav"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></span>
         {% endif %}
 
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-        {{ page }}
+        <span class="nav">{{ page }}</span>
         {% elsif page == 1 %}
-        <a href="{{ '/archive' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        <span class="nav"><a href="{{ '/archive' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></span>
         {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: 'archive/page:num', 'page:num' | replace: ':num', page }}">{{ page }}</a>
+        <span class="nav"><a href="{{ site.baseurl }}/archive/page{{ page }}">{{ page }}</a></span>
         {% endif %}
         {% endfor %}
 
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        <span class="nav"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></span>
         {% endif %}
       </div>
     </div>
