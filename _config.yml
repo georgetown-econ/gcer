@@ -3,8 +3,11 @@ title: Georgetown Center for Economic Research
 email: econdesk@georgetown.edu
 description: "GCER is sponsored by the Department of Economics in Georgetown University. Its primary goal is to foster an environment of open and rigorous scientific inquiry into current economic policy issues and problems, and to communicate its findings to academics and policy makers."
 baseurl: ""
+
 url: "http://localhost:4000/"
 excerpt_separator: "@@@"
+paginate: 5
+paginate_path: "archive/page:num"
 
 # Build settings
 markdown: kramdown

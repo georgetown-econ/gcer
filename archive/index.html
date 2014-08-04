@@ -1,0 +1,44 @@
+---
+layout: default
+title: Archive
+---
+
+<div class="home">
+  <div class="content">
+    <h1 class="main-page-title">News Archive - Page {{ paginator.page }}</h1>
+
+    <ul class="posts news-page">
+      {% for post in paginator.posts %}
+      {% include post.html %}
+      {% endfor %}
+    </ul>
+
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      <div class="all">
+        <a href="{{ site.baseurl }}/archive/all">All news items</a>
+      </div>
+
+      <div class="pages">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        {{ page }}
+        {% elsif page == 1 %}
+        <a href="{{ '/archive' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: 'archive/page:num', 'page:num' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>

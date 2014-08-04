@@ -401,3 +401,13 @@ a:visited { color: #205caa; }
   padding-top: 10px;
   border-top: 1px solid #e8e8e8;
 }
+
+.pagination .pages {
+  float: left;
+  width: 70%;
+}
+
+.pagination .all {
+  float: right;
+  width: 20%;
+}

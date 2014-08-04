@@ -1,0 +1,16 @@
+---
+layout: default
+title: News
+---
+
+<div class="home">
+  <div class="content">
+    <h1 class="main-page-title">News Archive - All</h1>
+
+    <ul class="posts main-page">
+      {% for post in site.posts %}
+        {% include post.html %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
