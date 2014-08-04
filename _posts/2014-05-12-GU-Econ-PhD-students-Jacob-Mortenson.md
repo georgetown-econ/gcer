@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GU Econ PhD students Jacob Mortenson and Alison Weingarten share prestigious Jordan Award"
-date:   2014-05-12 12:14:24
+date:   2014-04-25 00:00:00 +UTC
 ---
 
 <img style="float: left; width: 128px; height: 120px; margin: 10px;" src="{{ site.baseurl }}/assets/images/Bio-picture-AW.jpg" />
