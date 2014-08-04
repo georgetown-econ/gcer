@@ -26,11 +26,11 @@ title: Archive
 
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-        <span class="nav">{{ page }}</span>
+        <span class="nav page-number">{{ page }}</span>
         {% elsif page == 1 %}
-        <span class="nav"><a href="{{ '/archive' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></span>
+        <span class="nav"><a class="page-number" href="{{ '/archive' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></span>
         {% else %}
-        <span class="nav"><a href="{{ site.baseurl }}/archive/page{{ page }}">{{ page }}</a></span>
+        <span class="nav"><a class="page-number" href="{{ site.baseurl }}/archive/page{{ page }}">{{ page }}</a></span>
         {% endif %}
         {% endfor %}
 

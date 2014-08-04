@@ -16,4 +16,12 @@
     float: none;
     clear: both;
   }
+
+  .pagination .pages .nav {
+    display: block;
+  }
+
+  .pagination .pages .page-number:before {
+    content: "Page ";
+  }
 }
