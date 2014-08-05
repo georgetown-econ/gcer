@@ -163,6 +163,8 @@ a:visited { color: #205caa; }
 
 .posts li {
   margin-bottom: 30px;
+  border-top: 1px solid;
+  border-top-color: rgba(128, 128, 128, 0.4);
 }
 
 .posts.news-page li {
