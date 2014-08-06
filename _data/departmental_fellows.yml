@@ -38,12 +38,12 @@
   link: "http://people.bu.edu/lbouton/"
   content: "Assistant Professor of Economics"
 
-- name: "Matthew Canzoneri"
-  image: "canzoneri.jpg"
-  width: 144
-  height: 184
-  alt: "matt canzoneri"
-  link: "http://explore.georgetown.edu/people/canzonem/"
+- name: "Mary Ann Bronson"
+  image: "mary-ann-bronson-1.png"
+  width: 213
+  height: 150
+  alt: "Mary Ann Bronson"
+  link: "https://sites.google.com/site/maryannbronson/"
   content: "Professor of Economics"
 
 - name: "Dan Cao"
