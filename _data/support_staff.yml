@@ -1,7 +1,7 @@
 - name: "Marcia Suss"
-  image: "suss.jpg"
+  image: "suss.png"
   width: 144
-  height: 184
+  height: 164
   alt: "Marcia Suss"
   link: "http://econ.georgetown.edu/"
   content: "Department Administrator"
@@ -15,9 +15,9 @@
   content: "Graduate & GCER Coordinator"
 
 - name: "Kerstin Gobel"
-  image: ""
-  width: 144
-  height: 184
+  image: "placeholder-female.jpg"
+  width: 164
+  height: 164
   alt: "Kerstin Gobel"
   link: "http://econ.georgetown.edu/"
   content: "Undergraduate & GCER Coordinator"

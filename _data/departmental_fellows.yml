@@ -22,14 +22,6 @@
   link: "http://explore.georgetown.edu/people/aza/"
   content: "Associate Professor of Economics"
 
-- name: "Jinhui Bai"
-  image: "bai.jpg"
-  width: 144
-  height: 184
-  alt: "jinhui bai"
-  link: "http://explore.georgetown.edu/people/jb543/"
-  content: "Assistant Professor of Economics"
-
 - name: "Laurent Bouton"
   image: "LaurentBouton.jpg"
   width: 174
@@ -77,14 +69,6 @@
   alt: "martin evans"
   link: "http://explore.georgetown.edu/people/evansm1/"
   content: "Professor of Economics"
-
-- name: "Luca Flabbi"
-  image: "Luca Flabbi.jpg"
-  width: 184
-  height: 160
-  alt: "luca flabbi"
-  link: "http://explore.georgetown.edu/people/lf74/"
-  content: "Assistant Professor of Economics"
 
 - name: "Ian Gale"
   image: "Gale_Ian_galei.jpg"
