@@ -13,3 +13,11 @@ paginate_path: "archive/page:num"
 markdown: kramdown
 permalink: pretty
 exclude: [Gemfile, Gemfile.lock, Procfile, vendor]
+
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
