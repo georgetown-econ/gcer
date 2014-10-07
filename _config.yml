@@ -25,7 +25,7 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "Post date (YYYY-MM-DD HH:MM:SS +/-TTTT) - Timezone optional"
+          label: "Post date (YYYY-MM-DD HH:MM:SS)"
       - name: "layout"
         field:
           element: "hidden"
