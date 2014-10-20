@@ -9,7 +9,8 @@ show-in-nav: "0"
     <h1 class="main-page-title">GCER in the News</h1>
 
     <ul class="posts main-page">
-      {% for post in site.posts limit: 4 %}
+      {% assign posts_to_show = site.posts | where: "can_be_shown_in_index", "true" %}
+      {% for post in posts_to_show limit: 4 %}
       <li>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <a class="post-link" href="/archive/#{{ post.id }}">{{ post.title }}</a>
