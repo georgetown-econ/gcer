@@ -95,9 +95,9 @@
   content: "Assistant Professor of Economics"
 
 - name: "Mark Huggett"
-  image: "Huggett_Mark_mh5.jpg"
-  width: 184
-  height: 160
+  image: "Huggett_Mark.jpg"
+  width: 150
+  height: 200
   alt: "mark huggett"
   link: "http://explore.georgetown.edu/people/mh5/"
   content: "Professor of Economics"
