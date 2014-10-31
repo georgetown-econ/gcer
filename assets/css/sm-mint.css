@@ -41,7 +41,7 @@
 	.sm-mint a {
 		border-bottom:2px solid #fff;
 		padding:11px 20px 9px 20px;
-		color:#000;
+		color: #205caa;
 		font-size:16px;
 		line-height:17px;
 		font-family:Arial,sans-serif;
@@ -53,7 +53,7 @@
 	.sm-mint a:hover, .sm-mint a:focus, .sm-mint a:active {
 		border-bottom-color:#002269;
 		background:#002269;
-		color:#b9d9ec;
+		color: #205caa;
 	}
 	.sm-mint a.highlighted {
 		border-bottom-color:#b9d9ec !important;
