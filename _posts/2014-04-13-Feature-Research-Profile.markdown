@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Fall, 2013. Featured Research Profile."
-date: 2014-04-13 00:00:00 +UTC
+date: "2013-10-13 00:00:00 +UTC"
+published: true
 ---
 
 # Oh what a tangled web we weave... <sup>†</sup> Anderson and Smith explore the dilemmas of deception.
