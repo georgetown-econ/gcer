@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: GCER Fellow Levinson featured on Freakonomics Radio
 ---
 
