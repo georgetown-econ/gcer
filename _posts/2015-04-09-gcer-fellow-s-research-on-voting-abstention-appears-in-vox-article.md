@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "GCER Fellow's research on voting abstention appears in VOX article"
 ---
 
