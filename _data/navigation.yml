@@ -11,6 +11,7 @@
     - {name: Featured Profile, url: /research#profile}
     - {name: Initiatives, url: /research#initiatives}
     - {name: Publications, url: /research#publications}
+    - {name: GCEP, url: "http://gcep.georgetown.edu"}
 
 - name: Archive
   url: /archive
