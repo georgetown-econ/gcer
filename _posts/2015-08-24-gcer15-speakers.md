@@ -8,11 +8,46 @@ title: "gcer15-speakers"
 
 
 
+
 The IZA and the Georgetown Center of Economic Research (GCER) of Georgetown University's Economics Department are  pleased to announce the speaker schedule for the the fourth IZA@DC Young Scholar Program@@@.  The program,  a joint effort by GCER and the IZA to bring outstanding PhD students to Washington, DC,  is set to take place from September 27 -- October 2, 2015 at Georgetown University in Washington DC. The speaker schedule is as follows; detailed program of the conference will be posted on this site shortly.
 
-Monday, Sept 28.
+   
+ <div class="photo" style="float:left; margin-right: 20px;" >
+    <img src="/assets/images/Pistaferri.jpg" width="130" height="195"> 
+  </div>
+  <div class="description">
+    <div class="schedule" style="margin-bottom: 15px;"> <strong> Monday, September 28: Luigi Pistaferri (Stanford University) </strong> </div>
+    <div class="bio" style="margin-bottom: 50px;">
+      Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+  </div>
 
-Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+<div class="photo" style="float:left; margin-right: 20px;" >
+    <img src="/assets/images/Pistaferri.jpg" width="130" height="195"> 
+  </div>
+  <div class="description">
+    <div class="schedule" style="margin-bottom: 15px;"> <strong> Tuesday, September 29: Luigi Pistaferri (Stanford University) </strong> </div>
+    <div class="bio" style="margin-bottom: 50px;">
+      Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+  </div>
+
+<div class="photo" style="float:left; margin-right: 20px;" >
+    <img src="/assets/images/Pistaferri.jpg" width="130" height="195"> 
+  </div>
+  <div class="description">
+    <div class="schedule" style="margin-bottom: 15px;"> <strong> Wednesday, September 30: Luigi Pistaferri (Stanford University) </strong> </div>
+    <div class="bio" style="margin-bottom: 50px;">
+      Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+  </div>
+
+<div class="photo" style="float:left; margin-right: 20px;" >
+    <img src="/assets/images/Pistaferri.jpg" width="130" height="195"> 
+  </div>
+  <div class="description">
+    <div class="schedule" style="margin-bottom: 15px;"> <strong> Wednesday, October 1: Luigi Pistaferri (Stanford University) </strong> </div>
+    <div class="bio" style="margin-bottom: 50px;">
+      Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+  </div>
+
 
 
 Tuesday Sept 29.
@@ -33,5 +68,4 @@ Fran Blau is the Frances Perkins Professor  Industrial and Labor Relations  at C
 Friday, Oct 2.
 
 Alexandre Mas is  Professor of Economics and Public Affairs at Princeton University. Professor Mas is a labor economist with broad expertise in the economics of unemployment insurance, welfare reform, and labor unions.  A number of recent contributions have focussed on the economics of the workplace. 
-Recent work  examines  the effects of transparency in compensation  on wage compression. 
-
+Recent work  examines  the effects of transparency in compensation  on wage compression.
