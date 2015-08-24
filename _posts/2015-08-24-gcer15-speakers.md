@@ -1,11 +1,9 @@
 ---
 layout: post
 date: "2015-08-24 00:00:00 +UTC"
-published: false
+published: true
 title: "gcer15-speakers"
 ---
-
-
 
 
 
@@ -56,4 +54,3 @@ The IZA and the Georgetown Center of Economic Research (GCER) of Georgetown Univ
     <div class="bio" style="margin-bottom: 50px;">
       Alexandre Mas is  Professor of Economics and Public Affairs at Princeton University. Professor Mas is a labor economist with broad expertise in the economics of unemployment insurance, welfare reform, and labor unions. A number of important contributions of his have focussed on the economics of the workplace. Recent work  examines  the effects of transparency in compensation  on wage compression.
   </div>
-
