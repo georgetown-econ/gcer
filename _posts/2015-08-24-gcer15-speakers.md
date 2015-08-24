@@ -22,12 +22,12 @@ The IZA and the Georgetown Center of Economic Research (GCER) of Georgetown Univ
   </div>
 
 <div class="photo" style="float:left; margin-right: 20px;" >
-    <img src="/assets/images/Pistaferri.jpg" width="130" height="195"> 
+    <img src="/assets/images/Arcidiacono.jpg" width="130" height="195"> 
   </div>
   <div class="description">
-    <div class="schedule" style="margin-bottom: 15px;"> <strong> Tuesday, September 29: Luigi Pistaferri (Stanford University) </strong> </div>
+    <div class="schedule" style="margin-bottom: 15px;"> <strong> Tuesday, September 29: Peter Arcidiacono (Duke University) </strong> </div>
     <div class="bio" style="margin-bottom: 50px;">
-      Luigi Pistaferri is a Professor of Economics at Stanford University, co-editor at the   American Economic Review, and research fellow  of the NBER, SEPR and IZA. Professor Pistaferri  has a number of prominent research articles in the intersection of Labor and Macroeconomics. His research tackles critical topics on consumption and earnings inequality  and  on insurance-incentive trade offs of social insurance policies.   His recent work focuses on the dynamics of  intra-family insurance and time allocation. 
+     Peter Arcidiacono is  a Professor of Economics at Duke University. He is known for research  that spans a variety of topics in labor economics, including the effects of race on educational  success, and  the  effects of search frictions in the matching and formation of  relationships.  Recent work explores the strategies for identifying anticipated returns from occupational choices. 
   </div>
 
 <div class="photo" style="float:left; margin-right: 20px;" >
@@ -63,7 +63,7 @@ The IZA and the Georgetown Center of Economic Research (GCER) of Georgetown Univ
 
 Tuesday Sept 29.
 
-Peter Arcidiacono is  a Professor of Economics at Duke University. He is known for research  that spans a variety of topics in labor economics, including the effects of race on educational  success, and  the  effects of search frictions in the matching and formation of  relationships.  Recent work explores the strategies for identifying anticipated returns from occupational choices.   
+  
 
 
 Wednesday, Sept 30.
