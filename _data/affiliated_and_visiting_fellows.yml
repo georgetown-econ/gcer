@@ -22,14 +22,6 @@
   link: "http://explore.georgetown.edu/people/noe/?PageTemplateID=364"
   content: "Associate Professor of Public Policy and Economics, and Research Associate at the National Bureau of Economic Research (NBER)"
 
-- name: "Eric D. Gould"
-  image: "gould.jpeg"
-  width: 170
-  height: 170
-  alt: "Eric D. Gould"
-  link: "https://sites.google.com/site/edgould/"
-  content: "John Alfred Weinberg Chair in Economics, Hebrew University of Jerusalem."
-
 - name: "James P Habyarimana "
   image: "JamesPHabyarimana.jpg"
   width: 160
@@ -85,12 +77,3 @@
   alt: "Joshua C Teitelbaum"
   link: "http://www.law.georgetown.edu/faculty/jct48/"
   content: "Associate Professor of Law, Georgetown University Law Center"
-
-- name: "Daniel Westbrook"
-  image: "westbrook.jpg"
-  width: 144
-  height: 184
-  alt: "Daniel Westbrook"
-  link: "http://explore.georgetown.edu/people/westbrom/"
-  content: "Assistant Professor of Economics"
-
