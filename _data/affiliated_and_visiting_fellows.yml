@@ -6,6 +6,14 @@
   link: "https://sites.google.com/site/jgasturias2/"
   content: "Assistant Professor of Economics, School of Foreign Service in Qatar, Georgetown University"
 
+- name: "Rajeev Bhattacharya"
+  image: "rajeev.jpg"
+  width: 144
+  height: 184
+  alt: "Rajeev Bhattacharya"
+  link: "https://www.linkedin.com/pub/rajeev-bhattacharya/a/681/507"
+  content: "Director of the Master of Applied Economics Program, Professor of the Practice"
+
 - name: "Nada O Eissa"
   image: "nadaeissa.jpg"
   width: 152
@@ -37,14 +45,6 @@
   alt: "J. Bradford Jenson"
   link: "http://explore.georgetown.edu/people/jbj24/?action=viewgeneral&PageTemplateID=109"
   content: "Professor of International Business and Economics at the McDonough School of Business"
-
-- name: "Brian Madigan"
-  image: "BMadigan1.jpg"
-  width: 144
-  height: 198
-  alt: "Brian Madigan"
-  link: "http://explore.georgetown.edu/people/bm433/"
-  content: "MA Program Director, Department of Economics"
 
 - name: "John Mayo"
   image: "JohnMayo.jpg"
@@ -94,10 +94,3 @@
   link: "http://explore.georgetown.edu/people/westbrom/"
   content: "Assistant Professor of Economics"
 
-- name: "Rajeev Bhattacharya"
-  image: "rajeev.jpg"
-  width: 144
-  height: 184
-  alt: "Rajeev Bhattacharya"
-  link: "https://www.linkedin.com/pub/rajeev-bhattacharya/a/681/507"
-  content: "Director of the Master of Applied Economics Program, Professor of the Practice"
