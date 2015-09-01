@@ -1,3 +1,11 @@
+- name: "George Akerlof"
+  image: "Akerlof.jpg"
+  width: 150
+  height: 180
+  alt: "George Akerlof"
+  link: "http://explore.georgetown.edu/people/gaa53/"
+  content: "University Professor, McCourt School of Public Policy"
+
 - name: "Jose Asturias"
   image: "Asturias-Photo.jpg"
   width: 170
@@ -6,6 +14,14 @@
   link: "https://sites.google.com/site/jgasturias2/"
   content: "Assistant Professor of Economics, School of Foreign Service in Qatar, Georgetown University"
 
+- name: "Rajeev Bhattacharya"
+  image: "rajeev.jpg"
+  width: 144
+  height: 184
+  alt: "Rajeev Bhattacharya"
+  link: "https://www.linkedin.com/pub/rajeev-bhattacharya/a/681/507"
+  content: "Director of the Master of Applied Economics Program, Professor of the Practice"
+
 - name: "Nada O Eissa"
   image: "nadaeissa.jpg"
   width: 152
@@ -13,14 +29,6 @@
   alt: "Nada Eissa"
   link: "http://explore.georgetown.edu/people/noe/?PageTemplateID=364"
   content: "Associate Professor of Public Policy and Economics, and Research Associate at the National Bureau of Economic Research (NBER)"
-
-- name: "Eric D. Gould"
-  image: "gould.jpeg"
-  width: 170
-  height: 170
-  alt: "Eric D. Gould"
-  link: "https://sites.google.com/site/edgould/"
-  content: "John Alfred Weinberg Chair in Economics, Hebrew University of Jerusalem."
 
 - name: "James P Habyarimana "
   image: "JamesPHabyarimana.jpg"
@@ -37,14 +45,6 @@
   alt: "J. Bradford Jenson"
   link: "http://explore.georgetown.edu/people/jbj24/?action=viewgeneral&PageTemplateID=109"
   content: "Professor of International Business and Economics at the McDonough School of Business"
-
-- name: "Brian Madigan"
-  image: "BMadigan1.jpg"
-  width: 144
-  height: 198
-  alt: "Brian Madigan"
-  link: "http://explore.georgetown.edu/people/bm433/"
-  content: "MA Program Director, Department of Economics"
 
 - name: "John Mayo"
   image: "JohnMayo.jpg"
@@ -85,19 +85,3 @@
   alt: "Joshua C Teitelbaum"
   link: "http://www.law.georgetown.edu/faculty/jct48/"
   content: "Associate Professor of Law, Georgetown University Law Center"
-
-- name: "Daniel Westbrook"
-  image: "westbrook.jpg"
-  width: 144
-  height: 184
-  alt: "Daniel Westbrook"
-  link: "http://explore.georgetown.edu/people/westbrom/"
-  content: "Assistant Professor of Economics"
-
-- name: "Rajeev Bhattacharya"
-  image: "rajeev.jpg"
-  width: 144
-  height: 184
-  alt: "Rajeev Bhattacharya"
-  link: "https://www.linkedin.com/pub/rajeev-bhattacharya/a/681/507"
-  content: "Director of the Master of Applied Economics Program, Professor of the Practice"
