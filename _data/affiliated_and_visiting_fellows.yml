@@ -45,6 +45,14 @@
   alt: "J. Bradford Jenson"
   link: "http://explore.georgetown.edu/people/jbj24/?action=viewgeneral&PageTemplateID=109"
   content: "Professor of International Business and Economics at the McDonough School of Business"
+  
+- name: "Adriana Kugler"
+  image: "AdrianaKugler.jpg"
+  width: 150
+  height: 180
+  alt: "Adriana Kugler"
+  link: "http://explore.georgetown.edu/people/ak659/"
+  content: "Vice-Provost for Faculty and Professor, McCourt School of Public Policy"
 
 - name: "John Mayo"
   image: "JohnMayo.jpg"
@@ -54,6 +62,13 @@
   link: "http://explore.georgetown.edu/people/mayoj/?PageTemplateID=319"
   content: "Professor of Economics, Business and Public Policy"
 
+- name: "Anil Nathan"
+  image: "AnilNathan.jpg"
+  width: 150
+  height: 180
+  alt: "Anil Nathan"
+  content: "Visiting faculty, Assistant Professor, College of the Holy Cross"
+  
 - name: "Lindsay Oldenski"
   image: "LindsayOldenski.jpg"
   width: 146
@@ -62,6 +77,22 @@
   link: "http://www9.georgetown.edu/faculty/lo36/"
   content: "Assistant Professor, School of Foreign Service."
 
+- name: "Isabella Ruble"
+  image: "IsabellaRuble.jpg"
+  width: 150
+  height: 180
+  alt: "Isabella Ruble"
+  link: "http://www.american.edu/cas/faculty/ruble.cfm"
+  content: "Visiting faculty, Faculty Fellow, American University"
+  
+- name: "Neel U.Sukhatme"
+  image: "NeelSukhatme.jpg"
+  width: 150
+  height: 180
+  alt: "Neel U.Sukhatme"
+  link: "https://www.law.georgetown.edu/faculty/sukhatme-neel-u.cfm#"
+  content: "Associate Professor, Georgetown University Law Center"
+  
 - name: "Franco Peracchi"
   image: "peracchi.JPG"
   width: 180
@@ -86,33 +117,3 @@
   link: "http://www.law.georgetown.edu/faculty/jct48/"
   content: "Associate Professor of Law, Georgetown University Law Center"
   
-- name: "Adriana Kugler"
-  image: "AdrianaKugler.jpg"
-  width: 150
-  height: 180
-  alt: "Adriana Kugler"
-  link: "http://explore.georgetown.edu/people/ak659/"
-  content: "Vice-Provost for Faculty and Professor, McCourt School of Public Policy"
-  
-- name: "Anil Nathan"
-  image: "AnilNathan.jpg"
-  width: 150
-  height: 180
-  alt: "Anil Nathan"
-  content: "Visiting faculty, Assistant Professor, College of the Holy Cross"
-  
-- name: "Isabella Ruble"
-  image: "IsabellaRuble.jpg"
-  width: 150
-  height: 180
-  alt: "Isabella Ruble"
-  link: "http://www.american.edu/cas/faculty/ruble.cfm"
-  content: "Visiting faculty, Faculty Fellow, American University"
-  
-- name: "Neel U.Sukhatme"
-  image: "NeelSukhatme.jpg"
-  width: 150
-  height: 180
-  alt: "Neel U.Sukhatme"
-  link: "https://www.law.georgetown.edu/faculty/sukhatme-neel-u.cfm#"
-  content: "Associate Professor, Georgetown University Law Center"
