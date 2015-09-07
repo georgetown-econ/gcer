@@ -100,3 +100,11 @@
   height: 180
   alt: "Anil Nathan"
   content: "Visiting faculty, Assistant Professor, College of the Holy Cross"
+  
+- name: "Isabella Ruble"
+  image: "IsabellaRuble.jpg"
+  width: 150
+  height: 180
+  alt: "Isabella Ruble"
+  link: "http://www.american.edu/cas/faculty/ruble.cfm"
+  content: "Visiting faculty, Faculty Fellow, American University"
