@@ -76,22 +76,6 @@
   alt: "Lindsay Oldenski"
   link: "http://www9.georgetown.edu/faculty/lo36/"
   content: "Assistant Professor, School of Foreign Service."
-
-- name: "Isabella Ruble"
-  image: "IsabellaRuble.jpg"
-  width: 150
-  height: 180
-  alt: "Isabella Ruble"
-  link: "http://www.american.edu/cas/faculty/ruble.cfm"
-  content: "Visiting faculty, Faculty Fellow, American University"
-  
-- name: "Neel U.Sukhatme"
-  image: "NeelSukhatme.jpg"
-  width: 150
-  height: 180
-  alt: "Neel U.Sukhatme"
-  link: "https://www.law.georgetown.edu/faculty/sukhatme-neel-u.cfm#"
-  content: "Associate Professor, Georgetown University Law Center"
   
 - name: "Franco Peracchi"
   image: "peracchi.JPG"
@@ -108,6 +92,22 @@
   alt: "Carlo Prato"
   link: "http://carloprato.com/"
   content: "Assistant Professor, School of Foreign Service."
+  
+- name: "Isabella Ruble"
+  image: "IsabellaRuble.jpg"
+  width: 150
+  height: 180
+  alt: "Isabella Ruble"
+  link: "http://www.american.edu/cas/faculty/ruble.cfm"
+  content: "Visiting faculty, Faculty Fellow, American University"
+  
+- name: "Neel U.Sukhatme"
+  image: "NeelSukhatme.jpg"
+  width: 150
+  height: 180
+  alt: "Neel U.Sukhatme"
+  link: "https://www.law.georgetown.edu/faculty/sukhatme-neel-u.cfm#"
+  content: "Associate Professor, Georgetown University Law Center"
 
 - name: "Joshua C Teitelbaum"
   image: "JoshuaCTeitelbaum.jpg"
