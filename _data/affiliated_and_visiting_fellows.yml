@@ -1,11 +1,3 @@
-- name: "George Akerlof"
-  image: "Akerlof.jpg"
-  width: 150
-  height: 180
-  alt: "George Akerlof"
-  link: "http://explore.georgetown.edu/people/gaa53/"
-  content: "University Professor, McCourt School of Public Policy"
-
 - name: "Jose Asturias"
   image: "Asturias-Photo.jpg"
   width: 170

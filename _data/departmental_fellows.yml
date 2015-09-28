@@ -1,3 +1,11 @@
+- name: "George Akerlof"
+  image: "Akerlof.jpg"
+  width: 150
+  height: 180
+  alt: "George Akerlof"
+  link: "http://explore.georgetown.edu/people/gaa53/"
+  content: "University Professor, McCourt School of Public Policy"
+
 - name: "James Albrecht"
   image: "albrecht.jpg"
   width: 144
