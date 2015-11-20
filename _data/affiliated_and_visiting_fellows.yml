@@ -58,7 +58,8 @@
   image: "AnilNathan.jpg"
   width: 150
   height: 180
-  alt: "Anil Nathan"
+  alt: "Anil Nathan"  
+  link: "http://explore.georgetown.edu/people/asn44/"
   content: "Visiting faculty, Assistant Professor, College of the Holy Cross"
   
 - name: "Lindsay Oldenski"
