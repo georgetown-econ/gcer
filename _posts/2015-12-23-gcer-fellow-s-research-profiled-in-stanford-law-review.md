@@ -2,11 +2,8 @@
 layout: post
 date: "2015-11-23"
 published: true
-title: "GCER Fellow's Research profiled in Stanford Law Review"
+title: "_posts/2015-11-23-GCER Fellow's Research profiled in Stanford Law Review.html"
 ---
-
-
-
 
 
 <img style="float: left; width: 100px; height: 100px; margin: 10px;" src="{{ site.baseurl }}/assets/images/Rajeev.jpg" /> 
