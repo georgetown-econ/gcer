@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2016-01-12 00:00:00"
 published: false
 title: Professor Austan Goolsbee to deliver the 2016 Razin Lecture
 ---
