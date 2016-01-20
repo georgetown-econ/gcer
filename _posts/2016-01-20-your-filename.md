@@ -2,8 +2,9 @@
 layout: post
 date: ""
 published: false
-title: ""
+title: "_posts/2016-1-10-razin-prize.html"
 ---
+
 
 
 <p><img style="float: left; width: 150px; height: 150px; margin: 10px;" src="{{ site.baseurl }}/assets/images/xx.jpg" />
