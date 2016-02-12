@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2016-02-12 00:00:00"
 published: false
 title: "GU Econ Phds' research on Tax Bunching featured in WSJ article"
 ---
