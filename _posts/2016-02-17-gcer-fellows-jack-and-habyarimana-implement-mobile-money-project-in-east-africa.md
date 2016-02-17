@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2016-02-15 00:00:00"
 published: false
 title: "GCER Fellows Jack and Habyarimana Implement Mobile Money  Project in East Africa "
 ---
