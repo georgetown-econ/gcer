@@ -6,14 +6,6 @@
   link: "https://sites.google.com/site/jgasturias2/"
   content: "Assistant Professor of Economics, School of Foreign Service in Qatar, Georgetown University"
 
-- name: "Rajeev Bhattacharya"
-  image: "rajeev.jpg"
-  width: 144
-  height: 184
-  alt: "Rajeev Bhattacharya"
-  link: "https://www.linkedin.com/pub/rajeev-bhattacharya/a/681/507"
-  content: "Director of the Master of Applied Economics Program, Professor of the Practice"
-
 - name: "Nada O Eissa"
   image: "nadaeissa.jpg"
   width: 152
@@ -109,4 +101,3 @@
   alt: "Joshua C Teitelbaum"
   link: "http://www.law.georgetown.edu/faculty/jct48/"
   content: "Associate Professor of Law, Georgetown University Law Center"
-  
