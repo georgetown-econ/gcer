@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: 'Featured Research Profile: Fall/Winter 2016-17'
 ---
 
 
