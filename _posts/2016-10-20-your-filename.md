@@ -7,8 +7,8 @@ title: 'Featured Research Profile: Fall/Winter 2016-17'
 
      <h1 class="main-page-title">Featured Research Profile: Fall/Winter 2016-2017</h1>
       <h3 align="left">   
-        <em> :  </em> 
-        Georgetown economist Martin Ravallion examines World Bank successes and failures. </h3>
+        <em> :Markets with Search and Matching Frictions</em> 
+        Georgetown economists James Albrecht and Susan Vroman discuss directed housing search markets. </h3>
 
  </p>In textbook economics, the market for a good is in equilibrium when its price “equates supply and demand.” The supply-demand approach is a useful tool, but for many important markets, this framework doesn’t do a good job because of frictions that make it hard for buyers to find suitable sellers and vice versa. Take, for example, the labor market. This is a market in which the “good” being sold (labor services) isn’t standardized, so the notion of a “market-clearing price” isn’t useful. Instead, it takes time and effort for workers to find the right job, and, similarly, employers have to expend time and effort to find the right worker. That is, the labor market is characterized by search and matching frictions. Most of the research of Jim Albrecht and Susan Vroman is focused on developing models to better understand how markets with search and matching frictions work. They have applied their models to several markets, in particular, the labor market and the housing market. </p>
  
