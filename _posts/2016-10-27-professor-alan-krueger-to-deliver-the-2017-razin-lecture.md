@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Professor Alan Krueger to deliver the 2017 Razin Lecture
+date: '2016-10-27 2:07:00'
 ---
 
 <img style="float: left; width: 150px; height: 200px; margin: 10px;" src="{{ site.baseurl }}/assets/images/krueger_press_photo_01.jpg" />
