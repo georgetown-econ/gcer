@@ -68,23 +68,7 @@
   height: 160
   alt: "Franco Peracchi"
   link: "http://www.eief.it/faculty-visitors/faculty-a-z/franco-peracchi/"
-  content: "Professor, Tor Vergata University."
-
-- name: "Carlo Prato"
-  image: "cpr.jpg"
-  width: 150
-  height: 180
-  alt: "Carlo Prato"
-  link: "http://carloprato.com/"
-  content: "Assistant Professor, School of Foreign Service."
-  
-- name: "Isabella Ruble"
-  image: "IsabellaRuble.jpg"
-  width: 150
-  height: 180
-  alt: "Isabella Ruble"
-  link: "http://www.american.edu/cas/faculty/ruble.cfm"
-  content: "Visiting faculty, Faculty Fellow, American University"
+  content: "Director of the Masters Programs in Economics and Professor of the Practice"
   
 - name: "Neel U.Sukhatme"
   image: "NeelSukhatme.jpg"
