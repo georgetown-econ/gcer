@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: 2017 Distinguished Visitor Series
+date: '2017-01-27 5:00:00'
 ---
 The sixth year of the GCER Distinguished Visitor Series features a number of prominent economists who will spend time in the Department during the 2017-18 academic year@@@.  This years Distinguished Visitors include: 
 
