@@ -1,0 +1,7 @@
+---
+layout: post
+published: false
+title: GCER/Cemmap Applied Microeconomics Conference
+date: '2017-04-26 00:00:00'
+---
+The Georgetown Center for Economic Research is pleased to announce the inaugural Applied Microeconomics Conference will be held on May 11-12, 2017. The conference, co-sponsored with the Centre for Microdata Methods and Practice, a joint venture by the Department of Economics University College London and the Institute for Fiscal Studies, will take place at the Georgetown University School of Continuing Studies.
