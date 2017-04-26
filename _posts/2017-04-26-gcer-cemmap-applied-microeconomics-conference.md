@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: GCER/Cemmap Applied Microeconomics Conference
 date: '2017-04-26 00:00:00'
 ---
