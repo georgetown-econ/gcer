@@ -1,7 +1,8 @@
 ---
 layout: post
 published: false
-title: ''
+title: 'Atif Mian, Princeton joins GCER Distinguished Visitor Series'
+date: '2017-05-11 00:00:00'
 ---
 The Georgetown Center for Economic Research is please to announce that Atif Mian, Princeton University will join this year's GCER Distinguished Visitor Series. Professor Mian joins the other three GCER Distinguished Visitors:  Jesus Fernandez-Villaverde (UPenn), Douglas Gale (NYU) and Whitney Newey (MIT). For more information, please click here. 
 
