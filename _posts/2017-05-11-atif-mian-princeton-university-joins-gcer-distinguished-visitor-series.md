@@ -1,0 +1,10 @@
+---
+layout: post
+published: false
+title: 'Atif Mian, Princeton University joins GCER Distinguished Visitor Series'
+date: '2017-05-11 00:00:00'
+---
+
+The Georgetown Center for Economic Research is please to announce that Atif Mian, Princeton University will join this year's GCER Distinguished Visitor Series. Professor Mian joins the other three GCER Distinguished Visitors: Jesus Fernandez-Villaverde (UPenn), Douglas Gale (NYU) and Whitney Newey (MIT). 
+
+Atif Mian is Theodore A. Wells '29 Professor of Economics and Public Affairs at Princeton University, and Director of the Julis-Rabinowitz Center for Public Policy and Finance at the Woodrow Wilson School. He holds a Bachelor’s degree in Mathematics with Computer Science and Ph.D. in Economics from MIT. Prior to joining Princeton in 2012 he taught at the University of California, Berkeley and the University of Chicago Booth School of business. Professor Mian's work studies the connections between finance and the macro economy. 
